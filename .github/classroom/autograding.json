@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "LinkedList test",
+      "setup": "",
+      "run": "tester",
+      "input": "",
+      "output": "Add when empty: passed\r\nRemove all: passed\r\nAdd end: passed\r\nAdd by location: passed\r\nRemove by location: passed\r\nSet: passed\r\nRemove by search: passed\r\nMixed: passed\r\nBoolean tests: true",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
